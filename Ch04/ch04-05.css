@@ -46,22 +46,10 @@ body {
 #listNew {
 	margin-right: 30px;
 	margin-left: 50px;
-	line-height: 1.5em;
 }
 
 #contentMain {
-	margin-right: 55px;
-	margin-left: 13px;
-	font-family: Arial, Helvetica, sans-serif;
-	line-height: 2.5em;
 }
-.subtitle {
-	font-size: 14px;
-	font-weight: bold;
-	color: #EF4E08;
-	margin-top: 0px;
-}
-
 .headerLogo {
 	float: left;
 	margin-top: 20px;
@@ -77,46 +65,4 @@ body {
 	float: left;
 	margin-top: 65px;
 	margin-left: 100px;
-}
-
-#headerCopy {
-	font-size: 11px;
-	float: left;
-	margin-top: 100px;
-	margin-left: 25px;
-}
-email {
-	float: left;
-	margin-top: 65px;
-	margin-left: 100px;
-}
-.DATE {
-	color: #eA5413;
-}
-#content #contentL #listNew p {
-	border-top-width: 1px;
-	border-top-style: dotted;
-	border-right-style: dotted;
-	border-bottom-style: dotted;
-	border-left-style: dotted;
-	border-top-color: #000;
-	padding-top: 10px;
-}
-.noborder {
-	border-top-style: none;
-	border-right-style: none;
-	border-bottom-style: none;
-	border-left-style: none;
-}
-.norborder {
-	border-top-style: none;
-	border-right-style: none;
-	border-bottom-style: none;
-	border-left-style: none;
-}
-a {
-	color: #669933;
-}
-a {
-	color: #669933;
 }
